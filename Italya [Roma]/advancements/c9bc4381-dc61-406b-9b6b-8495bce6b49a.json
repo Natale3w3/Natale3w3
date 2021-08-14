@@ -1,0 +1,15 @@
+{
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2021-08-07 21:43:14 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2021-08-07 21:42:53 +0300"
+    },
+    "done": false
+  },
+  "DataVersion": 2578
+}
